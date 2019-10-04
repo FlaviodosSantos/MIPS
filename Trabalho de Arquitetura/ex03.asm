@@ -19,7 +19,7 @@
 		move $s1, $v0
 		
 		add $t1, $s0, 0 # resultado = zero
-		sub $t2, $s1, 1 # varialvel axiliar com o valor do expoente
+		sub $t2, $s1, 1 # varialvel axiliar para o loop
 		
 		jal POWER # chama a função
 		
