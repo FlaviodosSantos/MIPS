@@ -1,2 +1,2 @@
-# MIPS
+# MIPS - Assembly
 Alguns exemplos no MARS
